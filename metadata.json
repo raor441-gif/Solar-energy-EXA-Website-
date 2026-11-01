@@ -1,0 +1,6 @@
+{
+  "name": "Exa Energy Private Limited - Solar Panels, Rooftop Systems & Solar Lanterns",
+  "description": "Leading Indian clean-tech renewable energy company providing high-efficiency TOPCon solar panels, portable solar lanterns for rural lighting, smart inverters, and PM Surya Ghar subsidy rooftop installations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
